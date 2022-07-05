@@ -4,5 +4,6 @@ ls ---> to check directory listing
 whoami --->to check the current user
 mkdir filename --->to create new directory
 cd --->to change to home directory
+touch filename.txt --->to create a new txt file
 cat >filename --->to add contents to the file
 more filename --->to view the contents of the file
