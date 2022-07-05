@@ -1,0 +1,6 @@
+List of basic Linux Commands:
+
+ls ---> to check directory listing
+whoami --->to check the current user
+mkdir filename --->to create new directory
+cd --->to change to home directory
